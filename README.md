@@ -28,7 +28,7 @@ Running the App
 - Run the app using Streamlit:
 streamlit run app.py
 - Open your browser and navigate to the URL provided by Streamlit to use the web app.
-- 
+  
 Model Details
 - The model is a CNN trained on the MNIST dataset, a collection of 28x28 grayscale images of handwritten digits.
 - The model has been saved in HDF5 format (mnist_cnn_model.h5).
